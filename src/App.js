@@ -45,12 +45,12 @@ class App extends React.Component {
                 if (focused){
                   return <VectorIcons 
                   name="navicon" 
-                  size={23} 
+                  size={26} 
                   color = {Color[Color.key].thirthcolor} />;
                 } else {
                   return <VectorIcons 
                   name="navicon" 
-                  size={23} 
+                  size={25} 
                   color={Color[Color.key].secondcolor} />;
                 }
               }
@@ -58,12 +58,12 @@ class App extends React.Component {
                 if (focused){
                   return <VectorIcons 
                   name="user" 
-                  size={23} 
+                  size={25} 
                   color={Color.option1.thirthcolor}/>;
                 } else {
                   return <VectorIcons 
                   name="user" 
-                  size={23} 
+                  size={25} 
                   color={Color.option1.secondcolor}/>;
                 }
               }
@@ -71,12 +71,12 @@ class App extends React.Component {
                 if (focused){
                   return <VectorIcons 
                   name="user" 
-                  size={23} 
+                  size={25} 
                   color={Color.option1.thirthcolor}/>;
                 } else {
                   return <VectorIcons 
                   name="user" 
-                  size={23} 
+                  size={25} 
                   color={Color.option1.secondcolor}/>;
                 }
               }
@@ -84,12 +84,12 @@ class App extends React.Component {
                 if (focused){
                   return <VectorIcons 
                   name="navicon" 
-                  size={23} 
+                  size={25} 
                   color = {Color[Color.key].thirthcolor} />;
                 } else {
                   return <VectorIcons 
                   name="navicon" 
-                  size={23} 
+                  size={25} 
                   color={Color[Color.key].secondcolor} />;
                 }
               }
