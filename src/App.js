@@ -50,7 +50,7 @@ class App extends React.Component {
                 } else {
                   return <VectorIcons 
                   name="navicon" 
-                  size={25} 
+                  size={28} 
                   color={Color[Color.key].secondcolor} />;
                 }
               }
